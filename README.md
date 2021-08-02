@@ -1,7 +1,7 @@
 
 #### *Hi there!* 🤗
 
-Read in: **English**, [Portuguese](https://github.com/AnisanWesley/anisan-college/blob/master/README-pt.md)
+[[Ler em Português]](https://github.com/analuizams/analuizams/blob/main/README-pt.md)
 
 ---
   
