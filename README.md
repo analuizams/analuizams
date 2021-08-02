@@ -1,7 +1,6 @@
+[[Ler em Português]](https://github.com/analuizams/analuizams/blob/main/README-pt.md)
 
 #### *Hi there!* 🤗
-
-[[Ler em Português]](https://github.com/analuizams/analuizams/blob/main/README-pt.md)
 
 ---
   
