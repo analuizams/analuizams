@@ -1,11 +1,11 @@
+[[Read in English]](https://github.com/analuizams/analuizams/blob/main/README.md)
+
 
 #### *Olá!* 🤗
 
-[[Read in English]](https://github.com/analuizams/analuizams/blob/main/README.md)
-
 ---
   
-### Eu sou a Ana Luiza Machado, DEV fullstack jr. :)
+### Eu sou a Ana Luiza Machado, DEV fullstack jr.&nbsp; :)
 ###### <sup>**Ela/Dela**</sup> &nbsp;[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:analuizamsalgado@gmail.com)&nbsp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/analuizamsalgado/)&nbsp;[![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/analuizams)
 <!-- website to generate badges: https://shields.io/ -->
 
