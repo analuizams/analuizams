@@ -64,8 +64,14 @@
   <a href="https://heroku.com/" target="_blank">
     <img alt="Heroku" height="25" src="https://img.shields.io/badge/heroku-282C34.svg?style=for-the-badge&logo=heroku&logoColor=6762a6" />
   </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img alt="Vercel" height="25" src="https://img.shields.io/badge/vercel-282C34.svg?style=for-the-badge&logo=vercel&logoColor=%23000000" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img alt="git" height="25" src="https://img.shields.io/badge/git-282C34.svg?style=for-the-badge&logo=git&logoColor=F1502F" />
+  </a>
+  <a href="https://eslint.org/" target="_blank">
+    <img alt="ESLint" height="25" src="https://img.shields.io/badge/ESLint-282C34?style=for-the-badge&logo=eslint&logoColor=4B3263" />
   </a>
   <a href="https://www.cypress.io/" target="_blank">
     <img alt="Cypress" height="25" src="https://img.shields.io/badge/-cypress-282C34?style=for-the-badge&logo=cypress&logoColor=058a5e" />
@@ -84,12 +90,6 @@
   </a>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
     <img alt="Adobe Photoshop" height="25" src="https://img.shields.io/badge/photoshop-282C34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF" />
-  </a>
-  <a href="https://eslint.org/" target="_blank">
-    <img alt="ESLint" height="25" src="https://img.shields.io/badge/ESLint-282C34?style=for-the-badge&logo=eslint&logoColor=4B3263" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img alt="Vercel" height="25" src="https://img.shields.io/badge/vercel-282C34.svg?style=for-the-badge&logo=vercel&logoColor=%23000000" />
   </a>
   <a href="https://www.slack.com/" target="_blank">
     <img alt="Slack" height="25" src="https://img.shields.io/badge/slack-282C34?style=for-the-badge&logo=slack&logoColor=white" />
