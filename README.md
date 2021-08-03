@@ -10,45 +10,81 @@
 
 ---
 
-💻 &nbsp;Junior Full-Stack Developer  
-📍 &nbsp;Belo Horizonte, Brazil  
-🎓 &nbsp;Degree in Architecture and Urban Planning  
-<a href="https://www.betrybe.com/"><img alt="trybe-Logo" height="18" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=2159024400&v=beta&t=nqTaSKJaQJJZIhzEbWFriLCfSlgMlIxslVeGFdU54_o"></a>&nbsp; <a href="https://www.betrybe.com/">Trybe</a> Student | Batch #9:  
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Web Development Introduction</sub><br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Front-end Development </sub><br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Back-end Development</sub><br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Agile Methodologies & SoftSkills</sub><br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="loading" height="15" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif"> &nbsp; Computer Cience</sub>
+💻 &nbsp;Junior Full-Stack Developer  <br>
+📍 &nbsp;Belo Horizonte, Brazil  <br>
+🎓 &nbsp;Degree in Architecture and Urban Planning  <br>
+<a href="https://www.betrybe.com/"><img alt="trybe-Logo" height="18" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=2159024400&v=beta&t=nqTaSKJaQJJZIhzEbWFriLCfSlgMlIxslVeGFdU54_o"></a>&nbsp; <a href="https://www.betrybe.com/">Trybe</a> Student | Batch #9:  <br>
+<samp>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Web Development Introduction</sub><br>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Front-end Development </sub><br>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Back-end Development</sub><br>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Agile Methodologies & SoftSkills</sub><br>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="loading" height="15" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif"> &nbsp; Computer Cience</sub>
+</samp>
+
 
 <div align="center">
 
 ### Languages and Tools:
-<!-- badges repo: https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" height="25" />
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" height="25" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React" height="25" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux" height="25" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" height="25" src="https://img.shields.io/badge/MySQL-282C34?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" height="25" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js" height="25" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-282C34?logo=gitcolor=#F05032" alt="git logo" title="git" height="25" />
+  </a>
+  <a href="https://heroku.com" target="_blank">
+    <img alt="heroku" height="25" src="https://img.shields.io/badge/Heroku-282C34?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://jestjs.io" target="_blank">
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" height="25" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img alt="figma" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <img  alt="illustrator" height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img alt="photoshop" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+  </a>
+    <a href="https://www.cypress.io" target="_blank">
+    <img alt="cypress" height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  </a>
+  <br>
+  <br>
+
+<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"  /> </a> -->
 
   
 <!-- github stats api: https://github.com/anuraghazra/github-readme-stats -->
