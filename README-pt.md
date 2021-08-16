@@ -11,7 +11,7 @@
 
 ---
 
-💻 &nbsp;Junior Full-Stack Developer  
+💻 &nbsp;Full-Stack Developer Jr.  
 📍 &nbsp;Belo Horizonte/ MG  
 🎓 &nbsp;Arquiteta e Urbanista pela Universidade Federal de Ouro Preto  
 <a href="https://www.betrybe.com/"><img alt="trybe-Logo" height="18" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=2159024400&v=beta&t=nqTaSKJaQJJZIhzEbWFriLCfSlgMlIxslVeGFdU54_o"></a>&nbsp; Estudante da <a href="https://www.betrybe.com/">Trybe</a>  | Turma 9 :  
