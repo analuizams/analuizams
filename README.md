@@ -18,7 +18,7 @@
   <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Front-end Development </sub><br>
   <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Back-end Development</sub><br>
   <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Agile Methodologies & SoftSkills</sub><br>
-  <sub>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="loading" height="15" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif"> &nbsp; Computer Cience</sub>
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="loading" height="15" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif"> &nbsp; Computer Science</sub>
 
 
 
