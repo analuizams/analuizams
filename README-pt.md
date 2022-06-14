@@ -19,7 +19,7 @@
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Desenvolvimento Front-end</sub><br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Desenvolvimento Back-end</sub><br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Metodologias Ágeis & SoftSkills</sub><br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="loading" height="15" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif"> &nbsp; Introdução à Ciência da Computação</sub>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp; ✔️ &nbsp; Introdução à Ciência da Computação</sub>
 
 
 ##
