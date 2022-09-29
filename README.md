@@ -106,6 +106,10 @@
   <a href="https://www.apple.com/br/macos/big-sur/" target="_blank">
     <img alt="MacOS" height="25" src="https://img.shields.io/badge/macos-282C34?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="Typescript" height="25" src="ttps://img.shields.io/badge/typescript-282C34.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  h
 
   <br>
   <br>
