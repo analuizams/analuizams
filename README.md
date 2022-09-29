@@ -110,7 +110,7 @@
     <img alt="Typescript" height="25" src="https://img.shields.io/badge/typescript-282C34.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
       <a href="https://styled-components.com/" target="_blank">
-    <img alt="Styled components" height="25" src="https://img.shields.io/badge/typescript-282C34.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Styled components" height="25" src="https://img.shields.io/badge/styled--components-282c34?style=for-the-badge&logo=styled-components&logoColor=white" />
   </a>
 
   <br>
