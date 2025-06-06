@@ -33,9 +33,5 @@ I have a degree in Architecture and Urban Planning from UFOP and completed a ful
 Most of my work lives in private repositories and production environments of the startups I've been part of.  
 Still, I'm planning to share a few demo projects here soon.  
 
-If you'd like to know more about my experience, feel free to check and reach out on [LinkedIn](https://linkedin.com/in/analuizamsalgado). I'm always happy to chat! 😊
+If you'd like to know more about my experience, feel free to [reach out on LinkedIn](https://linkedin.com/in/analuizamsalgado). I'm always happy to chat! 😊
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analuizams&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=15&count_private=true&title_color=ffffff)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuizams&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=15&langs_count=6&title_color=ffffff)
