@@ -10,9 +10,9 @@
 
 ### 👋 Sobre mim
 
-Sou desenvolvedora full-stack com mais de 4 anos de experiência em startups, com foco na criação de aplicações web escaláveis e responsivas, priorizando performance e experiência do usuário. Trabalho principalmente com TypeScript, Node.js, React, Angular e NestJS. Também tenho experiência com testes automatizados, arquitetura de sistemas e colaboração com times multidisciplinares.
+Desenvolvedora full-stack com mais de 4 anos de experiência em startups, com foco na criação de aplicações web escaláveis e responsivas, priorizando performance e experiência do usuário. Atuo principalmente com TypeScript, Node.js, React, Angular e NestJS. Tenho experiência com testes automatizados, arquitetura de sistemas e colaboração com times multidisciplinares.
 
-Sou formada em Arquitetura e Urbanismo pela UFOP e conclui o curso de Desenvolvimento Web da Trybe, com mais de 1500 horas de formação prática em engenharia de software.
+Sou formada em Arquitetura e Urbanismo pela UFOP e concluí o curso de Desenvolvimento Web da Trybe, com mais de 1500 horas de formação prática em engenharia de software.
 
 ---
 
@@ -30,7 +30,7 @@ Sou formada em Arquitetura e Urbanismo pela UFOP e conclui o curso de Desenvolvi
 
 ### 📌 No que tenho trabalhado
 
-Grande parte do meu trabalho está em repositórios privados e ambientes de produção das startups onde atuei.  
-Mesmo assim, pretendo em breve compartilhar alguns projetos públicos por aqui.
+Grande parte dos projetos em que atuei estão em repositórios privados e ambientes de produção das startups onde trabalhei.  
+Mesmo assim, pretendo compartilhar em breve alguns exemplos públicos por aqui.
 
-Se quiser saber mais sobre minha experiência, fique à vontade para [me chamar no LinkedIn](https://linkedin.com/in/analuizamsalgado). Vou adorar trocar uma ideia! 😊
+Se quiser saber mais sobre minha trajetória ou trocar uma ideia, é só me chamar no [LinkedIn](https://linkedin.com/in/analuizamsalgado). Vai ser um prazer conversar! 😊
